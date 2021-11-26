@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6137d432-3806-4d05-a595-39c5487a000e": {
+      "ProjectGuid": "6137d432-3806-4d05-a595-39c5487a000e",
+      "DisplayName": "ASPNET5-Calculadora",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
